@@ -11,15 +11,15 @@ I'm a beginner QA Engineer
 
 
  HARD SKILLS
-``` 
-- Manual testing
-- Requirement analysis
-- Test documentation
-- Bug tracking
-- Test design techniques
-- Сlient-server architecture
-- SDLS / STLS
-```
+ 
+`- Manual testing`
+`- Requirement analysis`
+`- Test documentation`
+`- Bug tracking`
+`- Test design techniques`
+`- Сlient-server architecture`
+`- SDLS / STLS`
+
  TOOLS AND TECHNOLOGIES
  ```
 - Google Apps
