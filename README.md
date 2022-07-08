@@ -3,14 +3,38 @@
 <!--
 **lenanick/lenanick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm beginner QA Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ CONTACT
+ 
+- Ukraine
+- +380 66 986 98 13
+- ltsiuper@gmail.com
+
+
+ HARD SKILLS
+ 
+- Manual testing
+- Requirement analysis
+- Test documentation
+- Bug tracking
+- Test design techniques
+- Сlient-server architecture
+- SDLS / STLS
+
+ TOOLS AND TECHNOLOGIES
+- Google Apps
+- Terminal Linux (Git Bash) 
+- Postman 
+- WordPress
+- HTML, CSS 
+- Visual Studio Code
+- Video and graphical editing
+- SQL 
+
+SELF EDUCATION
+
+- Author's course "QA" by Vadim Ksendzov | April2022 - present
+- Marathon participant GoIT "HTML/CSS" | February 2022
+- Bogdan Stashchuk. "JavaScript for beginner" | April 2022 - present
+
