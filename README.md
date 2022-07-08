@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm beginner QA Engineer
+I'm a beginner QA Engineer
 
  CONTACT
  
