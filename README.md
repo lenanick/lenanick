@@ -11,7 +11,7 @@ I'm a beginner QA Engineer
 
 
  HARD SKILLS
- 
+``` 
 - Manual testing
 - Requirement analysis
 - Test documentation
@@ -19,8 +19,9 @@ I'm a beginner QA Engineer
 - Test design techniques
 - Сlient-server architecture
 - SDLS / STLS
-
+```
  TOOLS AND TECHNOLOGIES
+ ```
 - Google Apps
 - Terminal Linux (Git Bash) 
 - Postman 
@@ -29,10 +30,10 @@ I'm a beginner QA Engineer
 - Visual Studio Code
 - Video and graphical editing
 - SQL 
-
+```
 SELF EDUCATION
-
+```
 - Author's course "QA" by Vadim Ksendzov | April2022 - present
 - Marathon participant GoIT "HTML/CSS" | February 2022
 - Bogdan Stashchuk. "JavaScript for beginner" | April 2022 - present
-
+```
