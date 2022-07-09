@@ -36,8 +36,8 @@
 <img src="https://img.shields.io/badge/Postman-purple?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
 <img src="https://img.shields.io/badge/Git Bash-gray?style=for-the-badge&logo=Git Bashs&logoColor=white" alt="Git Bash Badge"/>
 <img src="https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress Badge"/>
-<img src="https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/>
-<img src="https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS Badge"/>
+<img src="https://img.shields.io/badge/HTML-purple?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/>
+<img src="https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS Badge"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-black?style=for-the-badge&logo=Visual Studio Code&logoColor=white" alt="Visual Studio Code Badge"/>
 <img src="https://img.shields.io/badge/SQL-purple?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL Badge"/>
 <img src="https://img.shields.io/badge/DBeaver-gray?style=for-the-badge&logo=DBeaver&logoColor=white" alt="DBeaver Badge"/>
