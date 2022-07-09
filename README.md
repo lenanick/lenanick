@@ -12,17 +12,20 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lena-tsiuper/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
   <a href="https://t.me/lenatsiuper">
-   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+   <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a> 
   
   <a href="https://join.skype.com/invite/A0LoYUYN75Bk">
-    <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
+    <img src="https://img.shields.io/badge/Skype-grey?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
   
+   <a href="ltsiuer@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   
   
 </div>
