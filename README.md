@@ -7,7 +7,7 @@
 </div>  
 
 <div id="header" align="center">
-<img src="https://c0.cprnt.com/storage/i/8a/2d/22/b4/30e54d838bd812d497e2af07/05f6bdd4bc99866a4e76035935d28237.png" width="300"/>
+<img src="https://c0.cprnt.com/storage/i/8a/2d/22/b4/30e54d838bd812d497e2af07/05f6bdd4bc99866a4e76035935d28237.png" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -30,10 +30,10 @@
 </div>
 
 
-<h4> TOOLS AND TECHNOLOGIES </h4>
+
 <div id="badges"> 
+<h5> TOOLS AND TECHNOLOGIES </h5>
 <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
-<img src="https://img.shields.io/badge/Google Apps-black?style=for-the-badge&logo=GoogleApps&logoColor=white" alt="Google Apps Badge"/>
 <img src="https://img.shields.io/badge/Git Bash-black?style=for-the-badge&logo=Git Bashs&logoColor=white" alt="Git Bash Badge"/>
 <img src="https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress Badge"/>
 <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/>
