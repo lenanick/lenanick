@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://mail.google.com/ltsiuper@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+  <a href="https://join.skype.com/invite/A0LoYUYN75Bk">
+    <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
   
   <a href="https://t.me/lenatsiuper">
