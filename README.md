@@ -1,4 +1,4 @@
-### Hi there, I'm Olena Tsiuper 👋
+### Hi there, I'm Lena  👋
 
 #### I'm from Ukraine :yellow_heart::blue_heart:
 
