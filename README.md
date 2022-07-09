@@ -17,7 +17,7 @@
   </a>
   
   <a href="ltsiuper@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
   </a>
   
   <a href="https://t.me/lenatsiuper">
