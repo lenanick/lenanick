@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Skype-gray?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
   
-   <a href="https://mail.google.com/ltsiuper">
+   <a href= "mailto:ltsiuper@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
     
