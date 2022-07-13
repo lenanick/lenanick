@@ -8,7 +8,7 @@
  <div id="contact" align="center">
  
  <a href="https://www.linkedin.com/in/lena-tsiuper/">
- <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
   
  <a href="https://t.me/lenatsiuper">
@@ -17,7 +17,7 @@
 
   
  <a href="https://join.skype.com/invite/A0LoYUYN75Bk">
- <img src="https://img.shields.io/badge/Skype-gray?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
+ <img src="https://img.shields.io/badge/Skype-black?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
  </a>
   
 <a href= "mailto:ltsiuper@gmail.com">
