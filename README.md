@@ -1,12 +1,9 @@
      
 <div id="header" align="center">
-  
 <img src="https://document-export.canva.com/1gxPE/DAFGUF1gxPE/9/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220713%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220713T053734Z&X-Amz-Expires=46653&X-Amz-Signature=8edeace3099cbeb9fd90acf0ca66078b3afd1c143f76e18b06446211b1f886f3&X-Amz-SignedHeaders=host&response-expires=Wed%2C%2013%20Jul%202022%2018%3A35%3A07%20GMT" width="2000"/>
   
-  
-<div id="badges" align="left">
-<h5></h5>
-</div>  
+  <p></p>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lena-tsiuper/">
@@ -28,7 +25,7 @@
 </div>
 
 <div id="badges" align="left">
-<h5> Tools and technologies </h5>
+<h4> Tools and Technologies </h4>
 </div>
 <div id="badges"align="left"> 
 <img src="https://img.shields.io/badge/Postman-purple?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
