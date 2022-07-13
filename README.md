@@ -25,7 +25,7 @@
 </div>
 
 <div id="badges" align="center">
-<h4> Tools and Technologies </h4>
+<h3> Tools and Technologies </h3>
 </div>
 
 <div id="tools"align="center"> 
