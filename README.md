@@ -24,11 +24,11 @@
 <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a>
 </div>
 
-<div id="badges" align="left">
+<div id="badges" align="center">
 <h4> Tools and Technologies </h4>
 </div>
 
-<div id="tools"align="left"> 
+<div id="tools"align="center"> 
 <img src="https://img.shields.io/badge/Postman-purple?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
 <img src="https://img.shields.io/badge/Git Bash-gray?style=for-the-badge&logo=Git Bashs&logoColor=white" alt="Git Bash Badge"/>
 <img src="https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress Badge"/>
