@@ -1,4 +1,7 @@
+     
 <div id="header" align="center">
+  
+<img src="https://document-export.canva.com/8D9Qc/DAFGTR8D9Qc/3/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220713%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220713T030112Z&X-Amz-Expires=43358&X-Amz-Signature=b93d463be3edbfd685de7ae16eb6f9a623203c74cabab267744bc753b38be85a&X-Amz-SignedHeaders=host&response-expires=Wed%2C%2013%20Jul%202022%2015%3A03%3A50%20GMT" width="750"/>
   
 ## Hi there, I'm Lena  👋
 
