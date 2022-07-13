@@ -2,32 +2,33 @@
 <div id="header" align="center">
 <img src="https://document-export.canva.com/1gxPE/DAFGUF1gxPE/9/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220713%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220713T053734Z&X-Amz-Expires=46653&X-Amz-Signature=8edeace3099cbeb9fd90acf0ca66078b3afd1c143f76e18b06446211b1f886f3&X-Amz-SignedHeaders=host&response-expires=Wed%2C%2013%20Jul%202022%2018%3A35%3A07%20GMT" width="2000"/>
   
-  <p></p>
+ <p></p>
 
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lena-tsiuper/">
-    <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+ <div id="contact" align="center">
+ 
+ <a href="https://www.linkedin.com/in/lena-tsiuper/">
+ <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
   
-  <a href="https://t.me/lenatsiuper">
-   <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a> 
+ <a href="https://t.me/lenatsiuper">
+ <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+ </a> 
+
   
-  <a href="https://join.skype.com/invite/A0LoYUYN75Bk">
-    <img src="https://img.shields.io/badge/Skype-gray?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
-  </a>
+ <a href="https://join.skype.com/invite/A0LoYUYN75Bk">
+ <img src="https://img.shields.io/badge/Skype-gray?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
+ </a>
   
-   <a href= "mailto:ltsiuper@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-    
+<a href= "mailto:ltsiuper@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a>
 </div>
 
 <div id="badges" align="left">
 <h4> Tools and Technologies </h4>
 </div>
-<div id="badges"align="left"> 
+
+<div id="tools"align="left"> 
 <img src="https://img.shields.io/badge/Postman-purple?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
 <img src="https://img.shields.io/badge/Git Bash-gray?style=for-the-badge&logo=Git Bashs&logoColor=white" alt="Git Bash Badge"/>
 <img src="https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress Badge"/>
@@ -36,5 +37,6 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-black?style=for-the-badge&logo=Visual Studio Code&logoColor=white" alt="Visual Studio Code Badge"/>
 <img src="https://img.shields.io/badge/SQL-purple?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL Badge"/>
 <img src="https://img.shields.io/badge/DBeaver-gray?style=for-the-badge&logo=DBeaver&logoColor=white" alt="DBeaver Badge"/>
+
 </div>
 
