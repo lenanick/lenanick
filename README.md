@@ -8,7 +8,7 @@
  <div id="contact" align="center">
  
  <a href="https://www.linkedin.com/in/lena-tsiuper/">
- <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
  </a>
   
  <a href="https://t.me/lenatsiuper">
@@ -21,7 +21,7 @@
  </a>
   
 <a href= "mailto:ltsiuper@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a>
+<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=rgb" alt="Gmail Badge"/> </a>
 </div>
 
 <div id="badges" align="center">
