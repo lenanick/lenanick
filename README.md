@@ -1,11 +1,10 @@
      
-<div id="header" align="center">
-<img src= https://media-private.canva.com/OW9jM/MAFGUPOW9jM/1/tl.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20230123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230123T093951Z&X-Amz-Expires=99257&X-Amz-Signature=a23bc3e8208052d2369b2c8086e82d0d09f5a18db27859944221dc9320df1f61&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2024%20Jan%202023%2013%3A14%3A08%20GMT wight = "2500"/>
-  
- <p></p>
+
 
 
  <div id="contact" align="center">
+  <h3> Contacts </h3>
+  
  
  <a href="https://www.linkedin.com/in/lena-tsiuper/">
  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
