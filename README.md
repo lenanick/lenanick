@@ -1,7 +1,4 @@
-     
-
-
-
+   
  <div id="contact" align="center">
   <h3> Contacts </h3>
   
