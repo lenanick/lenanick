@@ -1,6 +1,6 @@
-   
+
  <div id="contact" align="center">
- <img src = "https://document-export.canva.com/1gxPE/DAFGUF1gxPE/9/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20230227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230227T053734Z&X-Amz-Expires=46653&X-Amz-Signature=e4f1eeae24efc2dfc8f008c2b6d1d7cd4b6bf37900bbce45f6c434980f906d03&X-Amz-SignedHeaders=host&response-expires=Mon%2C%2027%20Feb%202023%2018%3A35%3A07%20GMT" width="800"/>
+ 
   <h3> Contacts </h3>
   
  
